@@ -1,0 +1,19 @@
+# C++ 編譯產物
+*.o
+*.out
+*.exe
+strategy_demo
+
+# 日誌檔
+*.log
+
+# macOS 系統垃圾檔
+.DS_Store
+
+# VSCode/CLion/JetBrains 設定
+.vscode/
+.idea/
+
+# (選用) 如果你有 build/ 或 tmp/ 暫存資料夾
+build/
+tmp/
