@@ -46,7 +46,6 @@ queues[symbol].push(order);
 ```
 
 
-
 ```
 Sample Output:
 
