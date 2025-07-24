@@ -1,0 +1,16 @@
+# 編譯產物（執行檔、object file）
+*.o
+*.out
+*.exe
+exchange_runner
+stress_test
+
+# 日誌、暫存檔
+*.log
+
+# macOS 系統檔
+.DS_Store
+
+# VSCode/CLion 相關暫存目錄
+.vscode/
+.idea/
